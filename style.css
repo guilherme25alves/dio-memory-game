@@ -11,6 +11,7 @@ body {
      align-items: center;
 }
 
+
 .genius {
      display: grid;
      grid-template-areas: 'verde vermelho'
@@ -48,5 +49,5 @@ body {
 }
 
 .selected { 
-     opacity: 0.8;
+     opacity: 0.4;
 }
