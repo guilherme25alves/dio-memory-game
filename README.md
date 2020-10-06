@@ -1,4 +1,4 @@
-# dio-memory-game
+# Jogo da Memória JS
 Jogo da memória simples realizado como base de estudos no Bootcamp da Digital Innovation One para conhecimento de posicionamento com CSS e uso do Javascript. 
 
 ### Técnologias utilizadas 
